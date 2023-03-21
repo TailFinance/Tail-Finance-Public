@@ -21,11 +21,12 @@ Next, we will introduce a staking program for current holders and release our pr
 The current token on Ethereum can be used to gain access to the airdrop when the project bridges over to Shibarium, people can boost their airdrop by staking. Once Tail has bridged over to Shibarium, the token can be used inside our ecosystem to stake, earn rewards etc.
 
 # Project UI
-![Screenshot 2023-03-17 at 10 55 07 AM](https://user-images.githubusercontent.com/127998976/225969144-22f1d30b-79c8-49bf-aad8-47834d319fa3.png)
+![Screenshot 2023-03-20 at 8 26 03 PM](https://user-images.githubusercontent.com/127998976/226504812-03b48cf1-32f3-4ad3-9c20-345593ecf901.png)
 
-![Screenshot 2023-03-17 at 10 55 36 AM](https://user-images.githubusercontent.com/127998976/225969284-6ca19953-2474-46e3-88c9-ba2ffe8758f3.png)
+![Screenshot 2023-03-20 at 8 26 24 PM](https://user-images.githubusercontent.com/127998976/226504836-2bb0890f-7349-436f-a37f-576fc5582152.png)
+
 
 # Dapp
-![Screenshot 2023-03-17 at 10 56 28 AM](https://user-images.githubusercontent.com/127998976/225969515-06bbe2da-c467-4b6e-902e-28983aa66447.png)
+![Screenshot 2023-03-20 at 8 26 54 PM](https://user-images.githubusercontent.com/127998976/226504897-1edcd0e6-9d2b-4e8e-bb8f-3654063aca14.png)
 
 
