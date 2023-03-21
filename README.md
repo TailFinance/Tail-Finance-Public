@@ -22,8 +22,7 @@ The current token on Ethereum can be used to gain access to the airdrop when the
 
 # Project UI
 ![Screenshot 2023-03-20 at 8 26 03 PM](https://user-images.githubusercontent.com/127998976/226504812-03b48cf1-32f3-4ad3-9c20-345593ecf901.png)
-
-![Screenshot 2023-03-20 at 8 26 24 PM](https://user-images.githubusercontent.com/127998976/226504836-2bb0890f-7349-436f-a37f-576fc5582152.png)
+![Screenshot 2023-03-20 at 8 28 19 PM](https://user-images.githubusercontent.com/127998976/226505035-0820efa0-1781-4171-99bc-b698b628bd63.png)
 
 
 # Dapp
